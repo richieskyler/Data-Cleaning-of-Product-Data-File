@@ -7,3 +7,6 @@ This Sales Product Dataset is gotten from Kaggle, it contains product informatio
 
 ## Objective
 The main goal is to extract key performance indicators <I>KPIs</I> that will be used to <I><B> make data driven decisions and improve company's business </B></I>
+## Tableau Dashboard 
+The below link is a dashboard created based on the data cleaned from this project
+https://public.tableau.com/app/profile/richard.oloyede/viz/SalesProductDashboard/Dashboard3
